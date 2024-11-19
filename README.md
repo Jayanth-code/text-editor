@@ -26,7 +26,7 @@ The **Online Text Editor** is a web-based application built with **HTML**, **CSS
 ---
 
 ## 🎉 How to Use 🎉  
-1. 🌐 **Open the Editor**: Open the online text editor in your browser to start using it.  
+1. 🌐 **Open the Editor**: Visit the live demo of the editor at [Online Text Editor](https://jayanth-texteditor.netlify.app/).  
 2. 📝 **Write and Edit**: Type your text, and use the toolbar to format it.  
 3. 💾 **Save Your Work**: Click the **Save** button to store your text in LocalStorage.  
 4. 📂 **Load Text**: Use the **Load** button to retrieve and continue editing your saved text.  
@@ -50,6 +50,6 @@ The **Online Text Editor** is a web-based application built with **HTML**, **CSS
 ---
 
 ## ✍️ Author ✍️  
-Developed by 🌟 **Alluri Jayanth** 🌟.
+Developed by 🌟 **Your Name** 🌟.
 
 Feel free to contribute or provide feedback. Let’s make writing and editing more accessible and fun! ✨📝
