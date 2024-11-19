@@ -50,6 +50,6 @@ The **Online Text Editor** is a web-based application built with **HTML**, **CSS
 ---
 
 ## ✍️ Author ✍️  
-Developed by 🌟 **Your Name** 🌟.
+Developed by 🌟 **Alluri Jayanth** 🌟.
 
 Feel free to contribute or provide feedback. Let’s make writing and editing more accessible and fun! ✨📝
